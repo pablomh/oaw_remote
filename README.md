@@ -1,4 +1,4 @@
-<img src="https://github.com/alfbach/OCP_remote/logo.png" width="450" height="120">
+<img src="https://github.com/alfbach/owa_remote/logo.png" width="450" height="120">
 
 
 # Red Hat OpenShift 4.x Infrastructure Workshop remote version
