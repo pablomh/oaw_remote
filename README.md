@@ -6,6 +6,8 @@
 
 March 2020
 
+etherpad: https://bit.ly/39dBi6W
+
 ## Agenda:
 
 
